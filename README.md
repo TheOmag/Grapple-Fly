@@ -8,7 +8,7 @@ Finally drag and drop the .dll file into the plugins folder bepinex/plugins, the
 If you have any questions or issues please DM me on discord CrafterBot#7578 or post a issue.</p>
 
 <h3>Video Intructions:</h3>
-<a href="https://youtu.be/Xbss7Uf2G_Q">Video link</a>
+<a href="https://youtu.be/Xbss7Uf2G_Q">Video link</a> - This is for the TP mod but it works the same, just download the Release instead of the TP mod!
 
 <h3>Instruction:</h3>
 <p>Hit the F button on your keyboard to Fly forward. Hit F+left control </p>
