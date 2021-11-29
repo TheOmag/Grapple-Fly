@@ -11,14 +11,23 @@ namespace config
         public static void run()
         {
             if (!File.Exists(fileDirectory)) Create();
-            //  if (File.Exists(fileDirectory)) SetSpeed();
         }
         public static void SetSpeed()
         {
-            float x = float.Parse(fileRead[5]);
-            float y = float.Parse(fileRead[8]);
-            main.code.speed = x;
-            main.code.mult = y;
+
+            if (fileRead[0] == "")
+            { }
+            else
+            {
+                float x = float.Parse(fileRead[5]);
+                float y = float.Parse(fileRead[8]); 
+                main.code.speed = x;
+                main.code.mult = y;
+            }
+        }
+        public static void readSet()
+        {
+            fileRead = File.ReadAllLines(fileDirectory);
         }
         public static void Create()
         {

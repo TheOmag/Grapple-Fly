@@ -20,6 +20,7 @@ namespace main
                 __instance.transform.GetComponent<Rigidbody>().velocity = Camera.main.transform.forward * Time.deltaTime * (speed * mult);
             }
             config.code.SetSpeed();
+            config.code.readSet();
         }
     }
 }
