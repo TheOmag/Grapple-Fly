@@ -11,7 +11,8 @@ If you have any questions or issues please DM me on discord CrafterBot#7578 or p
 <a href="https://youtu.be/Xbss7Uf2G_Q">Video link</a> - This is for the TP mod but it works the same, just download the Release instead of the TP mod!
 
 <h3>Instruction:</h3>
-<p>Hit the F button on your keyboard to Fly forward. Hit F+left control </p>
+<p>Hit the F button on your keyboard to Fly forward. Hit F+left control </p><br>
+<strong>To change the config go to Grapple!_1.0\BepInEx\config\Fly Grapple Config.txt" and edit any values you want. The mult is when you press ctrl+f(it multiplys speed by the mult). --- <bold>DO NOT CHANGE ANY OF THE LINES!!!</bold>Make sure when your done editing all the numbers are still on the same line!</strong>
 <h3>Grapple download:</h3>
 <P><a href="https://barji.itch.io/grapple">Link</a>
 <h3>Planned Updates:</h3>
